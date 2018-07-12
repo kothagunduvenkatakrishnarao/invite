@@ -1,0 +1,12 @@
+.heading{
+    text-align: center;
+    background-blend-mode: hard-light;
+    background-origin: content-box;
+    background-image: url('http://graphicsheat.com/wp-content/uploads/2013/06/Think-Positive.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+body{
+    background: linear-gradient(red,yellow);
+     
+}
